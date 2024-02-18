@@ -1,0 +1,17 @@
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\bin\Debug\net8.0\NumberToWordConverter.exe
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\bin\Debug\net8.0\NumberToWordConverter.deps.json
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\bin\Debug\net8.0\NumberToWordConverter.runtimeconfig.json
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\bin\Debug\net8.0\NumberToWordConverter.dll
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\bin\Debug\net8.0\NumberToWordConverter.pdb
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\bin\Debug\net8.0\NumericWordsConversion.dll
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.csproj.AssemblyReference.cache
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.AssemblyInfoInputs.cache
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.AssemblyInfo.cs
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.csproj.CoreCompileInputs.cache
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberTo.D1DBD776.Up2Date
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.dll
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\refint\NumberToWordConverter.dll
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.pdb
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\NumberToWordConverter.genruntimeconfig.cache
+C:\Users\iponb\source\repos\NumberToWord\NumberToWordConverter\obj\Debug\net8.0\ref\NumberToWordConverter.dll

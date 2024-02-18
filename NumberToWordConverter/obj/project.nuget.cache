@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hc9IadiDDQuP+PxprMdGAHdioFdYz+DbQFKxi7FiY6jOeoaen18uhz7GzcB1/fMOyoH0zvMepaWDO6dqiIrKtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iponb\\source\\repos\\NumberToWord\\NumberToWordConverter\\NumberToWordConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iponb\\.nuget\\packages\\numericwordsconversion\\2.0.0\\numericwordsconversion.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
